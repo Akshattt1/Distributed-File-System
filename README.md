@@ -63,11 +63,6 @@ Vinit Mehta (2022111001)</i> <br>
 
 <p id="contributions"></p>
 
-## <span style="color:skyblue">Individual Contributions</span>
-> <b><i>Divyansh Pandey:</i></b> NFS + Redundancy <br>
-> <b><i>Sanchit Jalan:</i></b> Client + Multiple Clients <br>
-> <b><i>Vinit Mehta:</i></b> SS + Tries + Book keeping + LRU Caching <br>
-> NOTE: Testing, Documentation and Error Handling are done by everyone on the team
 
 <p id="assumptions"></p>
 
