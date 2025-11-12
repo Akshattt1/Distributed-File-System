@@ -11,8 +11,8 @@
 ## <span style="color:yellow">Distributed File System (DFS)</span>
 <i><b>Team Number: 43</i></b> <br>
 <i><b>Team Members:</b> <br>
-Akshat Tiwari (2022101111) <br>
-Bhaskar Bhatt (2022101070) <br>
+Akshat Tiwari (2022102043) <br>
+Bhaskar Bhatt (2022102003) <br>
 Vinit Mehta (2022111001)</i> <br>
 
 </div>
